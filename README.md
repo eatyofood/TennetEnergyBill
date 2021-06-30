@@ -1,6 +1,6 @@
 # === Energy Bill Calculator === 
-For quickly determining  each tennets power consumption times the price per watt. 
-
+For quickly determining  each tennets power consumption, multiplied by the price per watt. 
+- exports a csv with billing information
 
 ## Installation
 
