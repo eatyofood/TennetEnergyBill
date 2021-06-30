@@ -5,7 +5,7 @@ For quickly determining  each tennets power consumption times the price per watt
 ## Installation
 
 ####  Install script
-`git clone {repo} `
+`git clone https://github.com/eatyofood/TennetEnergyBill.git `
 
 #### Install Dependencies
 `pip install -r requirements.txt`
